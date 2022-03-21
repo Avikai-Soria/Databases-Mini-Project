@@ -1,2 +1,2 @@
 # Databases-Mini-Project
-Assignment for Databases Mini Project by Hananel Zaguri and Avikai Soria
+Assignment for Databases Mini Project by Chananel Zaguri and Avikai Soria
