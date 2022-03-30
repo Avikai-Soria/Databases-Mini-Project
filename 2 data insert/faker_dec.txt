@@ -1,35 +1,3 @@
-Microsoft Windows [Version 10.0.19043.1586]
-(c) Microsoft Corporation. All rights reserved.
-
-C:\Users\user1>pyhon
-'pyhon' is not recognized as an internal or external command,
-operable program or batch file.
-
-C:\Users\user1>python
-Python 3.9.1 (tags/v3.9.1:1e5d33e, Dec  7 2020, 17:08:21) [MSC v.1927 64 bit (AMD64)] on win32
-Type "help", "copyright", "credits" or "license" for more information.
->>> from faker import Faker
->>> FAKE = faker()
-Traceback (most recent call last):
-  File "<stdin>", line 1, in <module>
-NameError: name 'faker' is not defined
->>> FAKE = Faker()
->>> FAKE.name()
-'Mr. Jeremy Henry'
->>> FAKE.email()
-'kimberly86@example.com'
->>> FAKE.username()
-Traceback (most recent call last):
-  File "<stdin>", line 1, in <module>
-  File "C:\Users\user1\AppData\Local\Programs\Python\Python39\lib\site-packages\faker\proxy.py", line 110, in __getattr__
-    return getattr(self._factories[0], attr)
-AttributeError: 'Generator' object has no attribute 'username'
->>> FAKE.__doc__()
-Traceback (most recent call last):
-  File "<stdin>", line 1, in <module>
-TypeError: 'str' object is not callable
->>> FAKE.__doc__
-'Proxy class capable of supporting multiple locales'
 >>> FAKE.__dir__()
 ['__annotations__', '__class__', '__deepcopy__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattr__'
 , '__getattribute__', '__getitem__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__',
@@ -60,4 +28,3 @@ TypeError: 'str' object is not callable
  'street_suffix', 'suffix', 'suffix_female', 'suffix_male', 'suffix_nonbinary', 'swift', 'swift11', 'swift8', 'tar', 'text', 'texts', 'time', 'time_delta', 'time_object',
  'time_series', 'timezone', 'tld', 'tsv', 'unique', 'unix_device', 'unix_partition', 'unix_time', 'upc_a', 'upc_e', 'uri', 'uri_extension', 'uri_page', 'uri_path', 'url',
  'user_agent', 'user_name', 'uuid4', 'weights', 'windows_platform_token', 'word', 'words', 'year', 'zip', 'zipcode', 'zipcode_in_state', 'zipcode_plus4']
->>>
