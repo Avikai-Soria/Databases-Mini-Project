@@ -22,8 +22,8 @@ CREATE TABLE Curator
 (
   CuratorId INT NOT NULL,
   FirstName VARCHAR(20) NOT NULL,
-  SecondName VARCHAR(20) NOT NULL,
-  Specialization VARCHAR(20) NOT NULL,
+  LastName VARCHAR(20) NOT NULL,
+  Email VARCHAR(40) NOT NULL,
   Rank INT NOT NULL,
   PRIMARY KEY (CuratorId)
 );
