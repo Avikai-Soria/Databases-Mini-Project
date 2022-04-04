@@ -12,7 +12,7 @@ CREATE TABLE Exhibition
 CREATE TABLE Exhibit
 (
   ExhibitId INT NOT NULL,
-  Name VARCHAR(20) NOT NULL,
+  Name VARCHAR(30) NOT NULL,
   Price FLOAT NOT NULL,
   DatePurchased DATE NOT NULL,
   PRIMARY KEY (ExhibitId)
