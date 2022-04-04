@@ -20,7 +20,7 @@ def getExhibitionAtDepartment(n: int):
                 + f"({DepartmentId[i - 1]} , {ExhibitionId[i - 1]}, {ExhibitionAtDepartmentId[i - 1]});\n"
         )
 
-    with open("sql/gen_ExhibitionAtDepartment .sql", "w") as f:
+    with open("../sql/gen_ExhibitionAtDepartment .sql", "w") as f:
         f.write(data)
 
 

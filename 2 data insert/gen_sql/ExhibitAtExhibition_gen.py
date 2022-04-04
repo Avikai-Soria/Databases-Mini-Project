@@ -17,7 +17,7 @@ def getExhibitAtExhibition(n: int):
                 + f"({ExhibitId[i - 1]} , {ExhibitionId[i - 1]} , {ExhibitAtExhibitionId[i - 1]});\n"
         )
 
-    with open("sql/gen_ExhibitAtExhibition.sql", "w") as f:
+    with open("../sql/gen_ExhibitAtExhibition.sql", "w") as f:
         f.write(data)
 
 

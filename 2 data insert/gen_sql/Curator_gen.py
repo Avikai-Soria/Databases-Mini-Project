@@ -27,16 +27,13 @@ def getCurator(n: int):
     t_name = "SORIA.CURATOR"
 
     data = ""
-    data += ', '.join(coloms_name)
-    data += "\n"
-
     for i in r:
         data += (
-                f"{CuratorId[i - 1]},'{FirstName[i - 1]}','{LastName[i - 1]}','{Email[i - 1]}',{Rank[i - 1]},{Date_of_birth[i - 1]} \n"
+                f"insert into {t_name} ({', '.join(coloms_name)}) values "
+                + f"({CuratorId[i - 1]}, '{FirstName[i - 1]}' , '{LastName[i - 1]}', '{Email[i - 1]}', {Rank[i - 1]}, to_date('{Date_of_birth[i - 1]}', 'YYYY/MM/DD'));\n"
         )
 
-
-    with open("csv_file/gen_Curator.csv", "w") as f:
+    with open("../sql/gen_Curator.sql", "w") as f:
         f.write(data)
 
 

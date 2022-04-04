@@ -12,13 +12,14 @@ def getCuratorAtExhibition(n: int):
     t_name = "SORIA.ExhibitAtExhibition"
 
     data = ""
+    data += ', '.join(colums_name)
+    data += "\n"
+
     for i in r:
         data += (
-                f"insert into {t_name} ({', '.join(colums_name)}) values "
-                + f"({CuratorAtExhibitionId[i - 1]} , {SalaryForCurator[i - 1]},{CuratorId[i - 1]} , {ExhibitionId[i - 1]});\n"
-        )
+            f"{CuratorAtExhibitionId[i - 1]},{SalaryForCurator[i - 1]},{CuratorId[i - 1]},{ExhibitionId[i - 1]}\n")
 
-    with open("sql/gen_CuratorAtExhibition.sql", "w") as f:
+    with open("../csv_file/gen_CuratorAtExhibition.csv", "w") as f:
         f.write(data)
 
 

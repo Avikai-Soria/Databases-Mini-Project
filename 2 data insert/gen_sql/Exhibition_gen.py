@@ -23,7 +23,7 @@ def getExhibition(n: int):
     StartTime = list(map(lambda a: str(a)[:-9].replace("-", "/"), StartTime))
     EndTime = list(map(lambda a: str(a)[:-9].replace("-", "/"), EndTime))
 
-    with open("csv_file/music_type.csv", 'r') as file:
+    with open("../csv_file/music_type.csv", 'r') as file:
         Genre = file.readlines()
     Genre = Genre[1:]
     Genre = list(map(lambda a: a[:-1], Genre))
@@ -40,7 +40,7 @@ def getExhibition(n: int):
                 + f",to_date('{EndTime[i - 1]}', 'YYYY/MM/DD'));\n"
         )
 
-    with open("sql/gen_Exhibition.sql", "w") as f:
+    with open("../sql/gen_Exhibition.sql", "w") as f:
         f.write(data)
 
 

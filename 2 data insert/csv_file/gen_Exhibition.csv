@@ -1,0 +1,401 @@
+ExhibitionId, URL, Genre, StartTime, EndTime
+1,'http://maddox-castillo.com/','hip hop',2020/02/02,2020/04/21
+2,'https://garcia-lewis.com/','blue-eyed soul',2020/06/14,2020/09/20
+3,'http://www.fox-ali.com/','salsa',2020/06/09,2020/08/23
+4,'https://www.jones.com/','pop rock',2022/03/23,2022/04/15
+5,'https://www.cameron-thornton.com/','pop punk',2021/09/24,2021/12/18
+6,'http://rose.com/','southern gospel',2021/10/30,2022/02/01
+7,'https://shaw.biz/','breakbeat',2020/02/19,2020/05/14
+8,'https://www.beck.com/','post-hardcore',2022/01/21,2022/03/12
+9,'https://www.ross.net/','new wave',2021/04/16,2021/06/21
+10,'http://www.davis.com/','breakcore',2020/07/11,2020/10/04
+11,'http://davis-price.org/','alternative rock',2020/02/13,2020/03/28
+12,'https://www.downs-king.com/','ccm',2020/06/12,2020/08/16
+13,'http://www.freeman-cherry.com/','bachata',2021/07/04,2021/08/23
+14,'http://martinez-thomas.com/','chanson',2020/07/21,2020/08/22
+15,'http://rose.com/','quiet storm',2021/01/08,2021/04/12
+16,'https://archer-pittman.com/','country rock',2020/03/31,2020/05/04
+17,'http://waters.com/','chill-out',2021/05/08,2021/05/25
+18,'https://jenkins.com/','qawwali',2020/08/07,2020/09/10
+19,'https://solis-ortiz.com/','hard rock',2021/04/03,2021/06/01
+20,'http://www.arnold.com/','indietronica',2021/09/26,2022/01/03
+21,'https://powell.com/','classic country',2021/10/24,2021/11/18
+22,'http://mann.org/','electric blues',2021/10/19,2022/01/27
+23,'https://rogers-scott.info/','uk garage',2021/04/30,2021/05/18
+24,'https://www.kramer.com/','math-core',2021/03/10,2021/03/31
+25,'http://romero.com/','pop rock',2020/06/05,2020/09/13
+26,'https://craig-beck.net/','post-grunge',2020/11/18,2021/02/12
+27,'https://www.rodriguez.org/','breakcore',2021/11/07,2022/01/08
+28,'https://www.jones-boone.com/','filk',2020/01/24,2020/03/07
+29,'http://www.gay.biz/','latin jazz',2020/01/01,2020/01/31
+30,'http://gordon.com/','jump blues',2022/01/11,2022/02/21
+31,'https://fernandez.info/','soul jazz',2021/06/25,2021/08/22
+32,'https://fleming-shaffer.com/','disco',2022/02/06,2022/02/26
+33,'http://www.mcguire-spencer.com/','doo-wop',2020/12/24,2021/03/06
+34,'http://www.smith.com/','classic country',2020/06/28,2020/07/10
+35,'http://brown-frost.com/','rap',2022/01/23,2022/03/26
+36,'https://www.lane.com/','charanga',2021/04/25,2021/07/19
+37,'https://clark.com/','noise rock',2021/04/09,2021/07/11
+38,'https://www.alexander-caldwell.com/','dance pop',2021/10/20,2022/01/11
+39,'http://santiago-guzman.com/','orchestra',2020/10/10,2020/12/16
+40,'https://www.graves.com/','cool jazz',2021/09/15,2021/10/09
+41,'http://stanley.com/','gothic metal',2021/10/23,2021/11/14
+42,'https://www.dawson.biz/','ska punk',2020/10/06,2020/12/15
+43,'https://villarreal-lee.com/','blues',2021/03/16,2021/04/02
+44,'http://soto-sparks.com/','salsa',2020/01/02,2020/01/17
+45,'http://lawson-hamilton.com/','modern rock',2021/04/01,2021/06/08
+46,'http://foster.com/','delta blues',2021/11/02,2021/12/07
+47,'http://horn-burns.com/','texas blues',2020/08/17,2020/10/07
+48,'https://www.simon.info/','blues',2020/01/07,2020/03/10
+49,'https://www.sellers.com/','trip hop',2021/05/02,2021/07/08
+50,'http://www.benitez.com/','hardcore techno',2021/07/10,2021/08/26
+51,'http://www.gutierrez-wolf.com/','glam rock',2020/12/25,2021/03/27
+52,'https://moore.com/','brazilian jazz',2021/03/12,2021/04/12
+53,'https://austin-gray.org/','gangster rap',2022/03/02,2022/05/21
+54,'http://www.maldonado.biz/','rock',2021/04/10,2021/06/21
+55,'https://www.finley.org/','brazilian jazz',2021/01/19,2021/04/14
+56,'https://johnson-greene.com/','soft rock',2020/10/17,2021/01/12
+57,'http://jarvis-king.biz/','easy listening',2022/03/06,2022/03/26
+58,'https://marshall.com/','dance rock',2021/02/23,2021/05/02
+59,'http://hobbs.com/','singer-songwriter',2021/10/27,2022/02/03
+60,'http://perez.net/','experimental rock',2020/09/05,2020/09/19
+61,'http://oneill-wolfe.org/','meditation',2021/09/20,2021/11/10
+62,'https://mccormick.biz/','ccm',2020/03/27,2020/05/28
+63,'http://www.lopez-jordan.com/','speedcore',2021/03/06,2021/04/05
+64,'https://www.fischer-thompson.com/','southern rock',2021/06/29,2021/08/18
+65,'http://stewart-cordova.com/','zouk',2021/05/30,2021/07/04
+66,'https://www.castro-davis.org/','trance',2021/10/26,2022/01/08
+67,'http://schwartz.com/','punk',2021/02/11,2021/02/28
+68,'http://www.garcia-snyder.net/','suomi rock',2021/02/03,2021/03/23
+69,'https://ramirez-nash.com/','rock',2020/12/01,2021/02/23
+70,'http://walker.com/','easy listening',2021/03/25,2021/04/25
+71,'https://www.harris.biz/','gabba',2021/08/01,2021/10/26
+72,'http://www.montoya-walter.com/','ccm',2020/07/02,2020/08/31
+73,'http://escobar.info/','pop rap',2020/08/01,2020/09/13
+74,'https://www.carney.com/','heavy metal',2020/08/10,2020/10/08
+75,'https://miller.com/','hip hop',2020/10/13,2021/01/14
+76,'http://miller.net/','industrial metal',2021/03/31,2021/06/19
+77,'https://www.rice.biz/','rock',2022/01/27,2022/03/27
+78,'https://www.bond.net/','freestyle',2021/10/03,2021/11/23
+79,'http://www.arnold.info/','brill building pop',2021/02/21,2021/03/04
+80,'https://bates-young.com/','melodic hardcore',2021/07/10,2021/09/04
+81,'http://hickman-wilson.net/','british pop',2021/09/28,2021/12/08
+82,'http://mathis-robles.biz/','heavy metal',2020/06/12,2020/06/24
+83,'http://www.wagner-hunt.com/','chanson',2020/03/16,2020/04/19
+84,'https://pruitt.com/','country rock',2020/02/16,2020/03/19
+85,'https://www.simpson.net/','country rock',2022/01/31,2022/02/19
+86,'https://www.johnson.com/','folk-pop',2020/09/04,2020/11/10
+87,'https://vang.info/','easy listening',2020/03/18,2020/05/17
+88,'https://www.washington.net/','stoner metal',2021/09/14,2021/12/12
+89,'http://rogers-thomas.biz/','western swing',2021/11/11,2021/12/09
+90,'http://www.horne.com/','indie rock',2022/04/02,2022/04/28
+91,'https://martinez.com/','rap rock',2021/10/07,2021/11/17
+92,'http://rodriguez.net/','indie rock',2020/05/12,2020/06/06
+93,'http://hernandez.com/','ranchera',2021/06/30,2021/09/09
+94,'https://taylor-wells.com/','chanson',2020/06/30,2020/07/28
+95,'https://www.moore.com/','hip hop',2020/04/08,2020/07/17
+96,'http://blake-lynch.com/','german pop',2020/02/06,2020/03/09
+97,'http://khan-jones.com/','easy listening',2021/03/25,2021/06/17
+98,'https://www.vazquez.org/','breakcore',2021/10/20,2021/12/16
+99,'http://www.wiley.com/','hard bop',2021/03/31,2021/04/18
+100,'http://phillips-gutierrez.org/','free jazz',2020/06/10,2020/06/20
+101,'http://www.martinez.com/','shoegaze',2021/09/25,2021/10/06
+102,'http://www.mcguire.com/','chill-out',2021/05/29,2021/09/03
+103,'http://www.hardy.com/','gospel',2022/03/11,2022/03/31
+104,'https://www.young.com/','blues-rock',2020/03/19,2020/06/14
+105,'https://patel-harper.com/','latin jazz',2021/10/20,2021/11/26
+106,'http://kim.com/','chanson',2021/01/12,2021/03/09
+107,'http://whitehead.biz/','tech house',2020/01/05,2020/04/04
+108,'http://www.lynch-gonzalez.com/','hip hop',2020/02/12,2020/02/27
+109,'http://www.aguilar.com/','country',2020/02/27,2020/03/27
+110,'https://www.rivera.biz/','roots reggae',2020/07/10,2020/09/20
+111,'https://www.russell-lee.info/','freakbeat',2020/10/26,2021/01/29
+112,'http://smith.com/','chicago soul',2022/01/06,2022/02/23
+113,'https://hurst.org/','blues-rock',2021/04/09,2021/05/10
+114,'http://page-shah.com/','jazz fusion',2020/01/29,2020/03/26
+115,'http://www.white.com/','delta blues',2021/09/07,2021/11/17
+116,'http://harrison.com/','new jack swing',2020/07/20,2020/08/05
+117,'http://may.info/','piedmont blues',2020/05/16,2020/07/26
+118,'https://butler.com/','jazz funk',2021/08/12,2021/09/20
+119,'https://reynolds-hardin.com/','male vocalist',2020/03/20,2020/06/19
+120,'http://www.wilson-weaver.net/','chanson',2020/01/14,2020/03/21
+121,'http://fernandez.org/','ghetto tech',2020/02/10,2020/03/07
+122,'https://gibson.com/','dance pop',2021/02/16,2021/04/11
+123,'http://www.ramirez.com/','country rock',2020/07/11,2020/09/14
+124,'https://www.campbell.com/','stoner metal',2020/03/09,2020/03/20
+125,'https://www.craig-hamilton.com/','singer-songwriter',2021/06/02,2021/08/27
+126,'http://rivera.com/','blues-rock',2022/03/10,2022/04/16
+127,'http://thomas.com/','guitar',2020/08/30,2020/11/17
+128,'https://kennedy-carter.com/','pop rap',2020/01/24,2020/02/14
+129,'http://berg-lee.org/','progressive house',2020/05/17,2020/05/27
+130,'http://www.berry-barajas.net/','hip hop',2022/01/27,2022/05/07
+131,'http://www.brown-kirk.org/','post-grunge',2021/05/09,2021/06/15
+132,'https://gardner.biz/','singer-songwriter',2020/12/19,2021/01/18
+133,'https://stuart.com/','gospel',2022/02/16,2022/04/04
+134,'https://www.ruiz.net/','blue-eyed soul',2020/06/16,2020/09/01
+135,'https://www.jones.com/','latin jazz',2022/01/14,2022/02/17
+136,'https://wilkins.com/','vocal house',2022/01/17,2022/02/26
+137,'http://www.anderson.com/','los angeles',2021/01/07,2021/02/12
+138,'http://cooper.biz/','lovers rock',2020/02/12,2020/03/17
+139,'http://martinez.com/','experimental rock',2021/09/12,2021/12/09
+140,'https://weber-stokes.com/','arabesque',2020/03/03,2020/04/13
+141,'http://www.case.info/','grunge',2021/11/10,2022/01/14
+142,'https://mcdonald-ellis.com/','dance pop',2021/03/31,2021/06/09
+143,'http://cohen.com/','rock',2021/11/28,2022/02/16
+144,'http://willis.info/','blues-rock',2020/05/12,2020/07/24
+145,'http://www.miranda-garcia.biz/','bossa nova',2021/10/11,2021/12/25
+146,'http://www.li.com/','zouk',2021/02/01,2021/03/01
+147,'http://schmidt.org/','rock',2020/03/19,2020/06/22
+148,'https://www.harris-smith.com/','thrash core',2021/07/14,2021/08/17
+149,'https://www.warren.com/','folk-pop',2020/03/29,2020/06/22
+150,'http://frey.com/','ccm',2021/06/27,2021/09/25
+151,'http://solis.org/','breakcore',2020/08/28,2020/09/25
+152,'http://grant-martin.org/','dance pop',2020/02/08,2020/03/07
+153,'https://www.hawkins.com/','easy listening',2020/09/20,2020/12/11
+154,'http://www.grimes.com/','tech house',2020/04/29,2020/07/01
+155,'https://www.hampton.biz/','frevo',2021/10/20,2022/01/17
+156,'https://www.jackson.com/','black metal',2021/02/18,2021/04/09
+157,'http://www.parsons.info/','meditation',2021/07/18,2021/08/08
+158,'http://kennedy.net/','serialism',2021/07/07,2021/08/03
+159,'http://www.nelson.com/','roots reggae',2021/04/06,2021/07/11
+160,'https://www.hansen.info/','bluegrass',2022/01/15,2022/03/31
+161,'http://www.jensen.com/','jazz funk',2020/01/20,2020/03/26
+162,'http://www.mclaughlin.org/','grunge',2020/11/01,2021/01/09
+163,'http://www.davis.com/','vocal jazz',2021/02/16,2021/05/15
+164,'http://www.casey.org/','alternative metal',2020/03/15,2020/06/18
+165,'http://white-brown.com/','flamenco',2021/05/16,2021/07/07
+166,'https://blake.info/','blues-rock',2022/02/10,2022/03/01
+167,'https://www.romero-ramirez.com/','gangster rap',2022/03/11,2022/05/11
+168,'https://huffman-snyder.com/','honky tonk',2021/12/11,2021/12/30
+169,'http://www.shelton.com/','electronica',2020/04/18,2020/06/03
+170,'https://parker-mcdonald.biz/','vocal house',2021/09/13,2021/11/01
+171,'https://www.donaldson.com/','country gospel',2022/03/12,2022/05/05
+172,'http://www.lawrence.info/','hardcore punk',2020/08/31,2020/11/06
+173,'https://jones-lindsey.net/','heavy metal',2020/07/24,2020/08/21
+174,'https://www.garcia.com/','post-grunge',2020/01/12,2020/02/08
+175,'https://www.davis-walsh.com/','brill building pop',2020/09/22,2020/10/31
+176,'http://www.adams.info/','easy listening',2020/02/27,2020/05/03
+177,'http://wells-eaton.org/','tejano',2020/02/06,2020/02/24
+178,'http://wilson.com/','pop rock',2020/02/24,2020/03/11
+179,'http://www.smith-hall.com/','chill-out',2021/08/08,2021/08/29
+180,'https://www.martinez-ward.org/','sympho black metal',2021/03/19,2021/06/15
+181,'https://www.washington-conley.com/','chamber jazz',2022/01/26,2022/03/23
+182,'https://taylor.com/','dancehall',2020/08/24,2020/11/14
+183,'https://tucker-wright.com/','hard house',2020/06/11,2020/07/15
+184,'http://www.anderson.com/','rap',2020/06/29,2020/07/29
+185,'https://www.meyer-hull.net/','industrial metal',2020/09/23,2020/10/12
+186,'http://www.morales-carr.com/','gaita',2021/03/18,2021/06/10
+187,'http://myers.net/','honky tonk',2021/09/10,2021/12/14
+188,'https://www.lee.com/','grime',2020/04/27,2020/06/27
+189,'http://www.macias.com/','new romantic',2020/01/05,2020/01/30
+190,'http://www.durham-hill.com/','happy hardcore',2021/09/30,2021/12/31
+191,'https://www.lewis.org/','tech house',2020/01/16,2020/01/31
+192,'https://gonzalez.com/','texas blues',2020/11/29,2020/12/21
+193,'http://meyers-duncan.biz/','modern rock',2021/03/01,2021/05/22
+194,'http://www.thompson-mccormick.info/','brazil',2020/04/14,2020/06/09
+195,'http://weaver.com/','future jazz',2022/03/01,2022/03/17
+196,'https://clay-smith.biz/','bossa nova',2021/08/01,2021/09/23
+197,'https://irwin-perkins.com/','breakbeat',2021/10/28,2021/12/07
+198,'http://galloway.org/','black metal',2020/08/31,2020/11/18
+199,'http://cook-martin.net/','dance rock',2021/06/27,2021/08/17
+200,'https://www.russell.com/','blues-rock',2022/02/19,2022/03/22
+201,'http://www.ortiz.biz/','french pop',2021/07/17,2021/10/08
+202,'https://www.newton.com/','dance rock',2021/09/21,2021/12/10
+203,'https://www.howell.com/','greek',2021/02/17,2021/04/22
+204,'https://hudson.com/','punk',2021/12/08,2022/02/16
+205,'http://www.harrison.biz/','r&b',2022/02/11,2022/04/28
+206,'https://www.campbell-glover.com/','breakbeat',2021/07/09,2021/10/03
+207,'http://www.cardenas-sims.com/','opera',2020/03/04,2020/06/01
+208,'http://johnson-morris.com/','folk-pop',2021/08/01,2021/10/19
+209,'https://www.patton-kelley.com/','ska',2021/02/01,2021/02/13
+210,'https://www.wilson.net/','british invasion',2021/03/02,2021/05/10
+211,'https://atkinson.biz/','turnablism',2021/04/24,2021/05/22
+212,'https://castillo-zavala.com/','pop folk',2021/03/24,2021/06/24
+213,'https://www.gates.com/','jazz fusion',2021/02/11,2021/03/24
+214,'https://singh.com/','alternative hip hop',2020/07/15,2020/10/23
+215,'https://www.massey.biz/','chicago blues',2022/02/20,2022/03/28
+216,'https://robinson.com/','latin jazz',2020/04/21,2020/05/09
+217,'https://www.johnston-nelson.biz/','breakbeat',2020/10/04,2020/11/22
+218,'https://www.williams.com/','stoner metal',2022/03/16,2022/04/08
+219,'https://nunez.org/','blues-rock',2021/02/13,2021/03/29
+220,'http://www.turner.org/','western swing',2021/01/28,2021/03/26
+221,'https://morris.info/','latin jazz',2020/11/24,2021/02/14
+222,'https://willis-hahn.org/','doom metal',2020/01/21,2020/02/09
+223,'https://www.king-jackson.net/','hard house',2022/01/01,2022/02/23
+224,'http://lopez.net/','world beat',2021/09/16,2021/10/01
+225,'https://www.shea.com/','twee pop',2021/05/22,2021/06/13
+226,'https://www.taylor.com/','rock',2020/10/03,2020/10/23
+227,'https://nguyen.info/','teen pop',2022/01/20,2022/02/24
+228,'http://becker.com/','doom metal',2021/10/19,2022/01/10
+229,'http://www.lowe.com/','smooth jazz',2020/09/13,2020/11/01
+230,'http://www.day.com/','power pop',2021/02/10,2021/03/15
+231,'http://www.wise-arnold.net/','latin pop',2021/07/01,2021/08/18
+232,'https://www.griffin-wilson.com/','techno',2021/12/16,2022/03/13
+233,'https://www.browning-ruiz.net/','gangster rap',2021/03/05,2021/05/06
+234,'http://www.potter-arnold.biz/','viking metal',2020/07/14,2020/08/18
+235,'https://brown.com/','gangster rap',2020/04/29,2020/05/13
+236,'http://blake-stevens.com/','rap metal',2020/03/22,2020/05/24
+237,'https://mcdonald-wise.biz/','chicago blues',2020/05/27,2020/07/31
+238,'http://www.villegas.info/','hardcore punk',2021/07/11,2021/08/25
+239,'http://www.ryan.com/','gabba',2020/08/14,2020/10/10
+240,'http://www.long.com/','rap metal',2021/06/17,2021/08/09
+241,'https://morton-kennedy.com/','requiem',2021/08/27,2021/09/26
+242,'http://johnston.com/','europop',2020/09/06,2020/11/17
+243,'http://www.gould-guerrero.biz/','rock',2022/01/17,2022/04/18
+244,'http://www.rivera.com/','post-grunge',2020/02/26,2020/05/01
+245,'http://www.anderson.com/','alternative metal',2021/01/23,2021/03/08
+246,'http://www.dickerson.org/','gabba',2020/12/17,2021/02/01
+247,'https://www.butler.com/','irish folk',2021/02/20,2021/03/28
+248,'https://parrish-arroyo.net/','dance rock',2021/11/23,2022/01/08
+249,'https://www.murphy-bonilla.biz/','soul jazz',2020/01/24,2020/04/19
+250,'https://www.richards.com/','rap metal',2021/12/28,2022/04/07
+251,'https://valencia-sellers.com/','country blues',2020/09/25,2020/10/25
+252,'https://clark.info/','instrumental pop',2022/02/22,2022/03/22
+253,'http://www.key-adams.org/','funk metal',2021/07/30,2021/08/20
+254,'http://bradshaw.net/','soundtrack',2020/12/12,2021/01/15
+255,'http://barnes-patrick.net/','rap',2021/10/03,2022/01/10
+256,'https://ashley.com/','chicago soul',2021/04/12,2021/07/18
+257,'https://marks.com/','chanson',2021/04/22,2021/07/23
+258,'https://koch-stein.com/','gabba',2021/05/11,2021/08/13
+259,'http://www.schmidt-hansen.info/','british pop',2020/06/25,2020/08/10
+260,'https://www.buchanan.biz/','pop rock',2021/10/11,2022/01/03
+261,'https://martinez.net/','big beat',2021/08/27,2021/11/06
+262,'http://butler.biz/','roots reggae',2021/03/05,2021/04/20
+263,'https://young.net/','rock',2020/04/26,2020/07/22
+264,'https://kemp.org/','trip hop',2021/08/12,2021/10/05
+265,'http://www.cannon.com/','hard rock',2021/02/05,2021/04/04
+266,'http://lopez.org/','progressive house',2021/07/24,2021/09/20
+267,'https://www.simmons.com/','roots reggae',2021/08/22,2021/10/04
+268,'http://cole-french.com/','classic country',2022/01/28,2022/03/27
+269,'https://ball-garcia.com/','gabba',2020/10/17,2020/10/31
+270,'http://www.kennedy-henderson.net/','hip hop',2021/11/08,2021/12/17
+271,'https://www.walsh.com/','hip hop',2021/04/24,2021/05/19
+272,'https://fisher.com/','orchestra',2021/05/22,2021/06/03
+273,'https://www.parker-stewart.com/','honky tonk',2020/09/11,2020/09/21
+274,'http://www.johnson-lee.com/','hip hop',2021/07/30,2021/08/16
+275,'https://garcia-smith.net/','sympho black metal',2021/05/29,2021/06/13
+276,'http://smith-bernard.com/','chill-out',2020/11/19,2021/02/01
+277,'http://www.ramirez.com/','orchestra',2020/04/18,2020/06/06
+278,'https://www.carter-burton.net/','latin jazz',2021/08/04,2021/08/22
+279,'http://www.johnson-parker.com/','post-grunge',2020/12/11,2021/02/04
+280,'https://long.com/','post-hardcore',2020/06/12,2020/08/23
+281,'https://www.ray.com/','dance-punk',2020/02/02,2020/04/23
+282,'http://cummings-hernandez.org/','grindcore',2021/08/22,2021/09/24
+283,'https://www.thomas.com/','gangster rap',2020/10/03,2020/12/17
+284,'https://richards-mays.com/','blues-rock',2021/12/09,2022/01/13
+285,'http://www.evans-avila.com/','british pop',2020/07/25,2020/10/22
+286,'http://werner.info/','rockabilly',2020/11/21,2021/01/23
+287,'https://scott-williams.com/','twee pop',2020/10/03,2020/12/03
+288,'http://www.adams.com/','hard bop',2021/11/21,2021/12/11
+289,'https://conley.biz/','chill-out',2021/06/23,2021/08/03
+290,'https://www.wang.com/','broken beat',2020/03/18,2020/05/12
+291,'https://www.guerrero.com/','miami bass',2021/09/30,2021/12/13
+292,'https://www.mcmillan.org/','vocal',2021/06/03,2021/07/27
+293,'https://www.bell.com/','post-grunge',2020/10/31,2021/01/12
+294,'https://gutierrez-harvey.org/','brill building pop',2020/06/20,2020/09/06
+295,'https://www.flores-elliott.com/','funky house',2020/11/26,2021/03/04
+296,'http://cook.com/','flamenco',2020/02/11,2020/03/24
+297,'https://nelson.info/','ballet',2021/07/16,2021/09/18
+298,'https://wilcox-henderson.org/','country rock',2021/04/28,2021/06/14
+299,'https://www.weiss.com/','brazilian pop music',2021/03/20,2021/04/27
+300,'https://gonzales-williams.info/','doo-wop',2021/07/13,2021/08/06
+301,'http://edwards-martin.net/','j pop',2020/11/15,2021/01/30
+302,'http://www.ortiz-orr.com/','happy hardcore',2021/03/18,2021/04/30
+303,'http://www.romero-gray.net/','pop punk',2020/02/22,2020/05/25
+304,'https://www.powell-frederick.com/','classic country',2020/01/10,2020/03/18
+305,'https://arias.com/','jazz',2020/05/14,2020/07/04
+306,'http://www.cain.com/','chanson',2020/04/14,2020/05/04
+307,'https://martinez-harris.com/','hip hop',2021/11/16,2022/01/14
+308,'http://www.humphrey.biz/','bel canto',2020/11/28,2021/01/29
+309,'http://www.frazier.com/','blues-rock',2020/03/25,2020/05/30
+310,'https://dixon-brown.com/','pop folk',2020/03/04,2020/06/07
+311,'https://griffith-quinn.com/','british pop',2021/11/30,2022/01/21
+312,'http://www.jones-edwards.net/','early music',2020/09/20,2020/10/02
+313,'http://www.bailey.com/','musette',2022/01/03,2022/04/10
+314,'https://smith-perry.info/','downtempo',2021/06/08,2021/06/30
+315,'http://www.richard-maldonado.com/','irish folk',2021/04/10,2021/05/12
+316,'https://joseph-miller.com/','chill-out',2021/02/10,2021/04/13
+317,'https://vincent.info/','argentine rock',2021/12/10,2022/01/08
+318,'https://www.king.com/','country rock',2021/11/30,2021/12/22
+319,'http://hernandez.com/','cantonese pop',2021/08/09,2021/11/05
+320,'https://www.lambert.net/','hip hop',2020/03/08,2020/05/03
+321,'http://williams.com/','teen pop',2021/05/26,2021/09/02
+322,'https://www.hill-jacobs.com/','cabaret',2020/10/01,2021/01/07
+323,'https://www.porter.com/','instrumental pop',2020/01/16,2020/03/29
+324,'http://reyes.info/','pop rock',2020/01/27,2020/04/04
+325,'https://goodwin.com/','screamo',2022/03/12,2022/05/27
+326,'http://williams.com/','jazz fusion',2020/09/10,2020/11/25
+327,'https://www.hernandez.info/','progressive house',2021/11/16,2022/02/13
+328,'http://ross-anderson.org/','jazz funk',2020/05/13,2020/06/21
+329,'http://www.webb.net/','cool jazz',2020/01/03,2020/01/28
+330,'https://www.mills.net/','ccm',2020/05/09,2020/06/15
+331,'http://rodriguez-greene.info/','country rock',2021/10/11,2021/11/23
+332,'http://www.joseph.com/','flamenco',2021/08/04,2021/10/08
+333,'http://www.gray-scott.org/','teen pop',2021/01/28,2021/02/11
+334,'http://www.reyes.com/','bhangra',2022/03/16,2022/05/10
+335,'http://fleming.info/','breakbeat',2021/09/22,2021/11/16
+336,'https://www.adams.org/','breakbeat',2020/08/12,2020/11/05
+337,'https://cooper.net/','heartland rock',2022/02/03,2022/03/25
+338,'https://riggs.com/','symphonic rock',2021/03/23,2021/05/09
+339,'http://www.ramirez.org/','latin jazz',2021/05/17,2021/07/28
+340,'https://www.hardy.info/','tech house',2021/10/30,2022/01/03
+341,'https://www.martinez.com/','blues-rock',2021/05/31,2021/08/27
+342,'http://vasquez.com/','turnablism',2021/09/11,2021/10/10
+343,'http://alexander-edwards.info/','club',2020/08/27,2020/11/24
+344,'http://logan-bradley.com/','latin jazz',2020/04/21,2020/05/10
+345,'http://fritz-potter.com/','chanson',2020/08/21,2020/09/13
+346,'https://www.larsen.com/','instrumental rock',2021/07/04,2021/08/25
+347,'http://www.burton.com/','ballad',2020/04/26,2020/06/30
+348,'http://www.reid.net/','hip hop',2021/10/22,2021/12/14
+349,'https://www.stevens.net/','hip hop',2021/06/17,2021/08/25
+350,'http://www.oliver-rodriguez.org/','soundtrack',2021/01/08,2021/04/12
+351,'https://www.crawford.info/','nu metal',2020/02/08,2020/03/25
+352,'https://www.mitchell.com/','rock',2020/04/10,2020/05/12
+353,'http://www.jones-may.biz/','blues-rock',2022/03/27,2022/04/25
+354,'http://www.obrien.com/','stoner metal',2020/01/10,2020/03/15
+355,'http://www.clark.com/','vaudeville',2020/09/21,2020/11/16
+356,'https://www.lin-walls.biz/','blues-rock',2020/11/18,2020/12/08
+357,'http://morales.com/','screamo',2021/09/09,2021/09/26
+358,'https://campbell.com/','hip hop',2020/04/18,2020/06/17
+359,'http://bender.com/','chill-out',2021/12/02,2021/12/25
+360,'https://www.cameron-olson.com/','brill building pop',2021/06/21,2021/08/22
+361,'http://kennedy.org/','chanson',2021/05/18,2021/06/20
+362,'https://www.blair-johnson.com/','post-hardcore',2021/07/10,2021/09/22
+363,'http://stein.com/','disco',2020/07/27,2020/09/09
+364,'http://www.george.info/','dark ambient',2021/10/10,2021/10/25
+365,'https://carpenter.org/','cumbia',2020/05/05,2020/05/27
+366,'http://www.woods-johnson.com/','doom metal',2021/04/20,2021/05/29
+367,'https://kim.com/','british pop',2020/04/14,2020/05/27
+368,'http://mckee.org/','jazz fusion',2020/06/01,2020/06/12
+369,'http://green.com/','cabaret',2020/05/08,2020/08/05
+370,'http://www.reeves.info/','male vocalist',2020/08/14,2020/11/02
+371,'https://www.davis.org/','honky tonk',2020/06/22,2020/07/31
+372,'http://robinson-moore.com/','pop punk',2020/11/20,2021/02/24
+373,'http://evans.info/','irish folk',2021/01/29,2021/05/01
+374,'https://www.ford-chapman.com/','tango',2022/03/07,2022/05/09
+375,'http://www.washington.com/','vocal jazz',2021/09/01,2021/11/08
+376,'http://malone-mendez.biz/','blues-rock',2021/09/25,2021/12/29
+377,'https://www.ruiz.com/','ccm',2021/03/27,2021/05/16
+378,'http://oliver-escobar.com/','hard house',2022/03/11,2022/03/30
+379,'http://www.ortiz-bush.com/','dance rock',2020/11/27,2021/02/07
+380,'https://case-rodriguez.org/','technical death metal',2020/03/14,2020/06/12
+381,'https://barajas.com/','digital hardcore',2020/03/21,2020/06/25
+382,'http://lopez.biz/','heavy metal',2020/10/22,2020/12/02
+383,'http://www.brewer-ward.com/','trip hop',2020/07/14,2020/08/02
+384,'https://www.ryan.com/','blues-rock',2021/06/28,2021/09/08
+385,'http://www.robinson.com/','indie rock',2020/06/23,2020/07/08
+386,'http://nelson.com/','pop rap',2021/10/14,2021/11/17
+387,'https://herman-arias.net/','hip hop',2021/04/12,2021/06/19
+388,'https://www.hodge.info/','latin jazz',2020/01/25,2020/04/29
+389,'http://www.cisneros.net/','gangster rap',2021/11/25,2022/01/12
+390,'https://www.johnson.net/','smooth jazz',2020/02/28,2020/05/11
+391,'https://www.murphy.com/','charanga',2021/03/23,2021/04/23
+392,'https://reid-holt.com/','jazz fusion',2020/10/16,2020/11/11
+393,'https://www.davis.org/','tech house',2021/12/24,2022/02/18
+394,'https://reyes.info/','celtic punk',2022/01/17,2022/03/17
+395,'http://craig.com/','power electronics',2020/12/13,2021/01/24
+396,'https://www.patterson-frank.com/','disco',2020/06/10,2020/06/21
+397,'http://www.curtis-chapman.net/','slack key guitar',2022/04/01,2022/04/14
+398,'http://www.berger-allen.biz/','melodic hardcore',2021/09/19,2021/12/20
+399,'http://www.anderson.com/','folk rock',2020/10/21,2020/12/25
+400,'https://www.quinn-flores.biz/','Jewish music',2021/04/28,2021/07/02
