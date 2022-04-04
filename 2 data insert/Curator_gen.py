@@ -1,3 +1,4 @@
+# 20,000 instance
 import datetime
 import random
 import time
@@ -9,31 +10,31 @@ FAKE = Faker()
 CuratorId = 0
 FirstName = '?'
 SecondName = '?'
-Specialization = '?'
+Email = '?'
 Rank = 0
-
 
 def getCurator(n: int):
     r = range(1, n + 1)
-    shuttleID = r
-    busCount = list(map(lambda a: random.randint(1, 60), r))
-    startTime, endTime = list(zip(*map(times, r)))
-    description = list(map(lambda a: FAKE.text().replace("\n", " "), r))
+    CuratorId = r
+    Rank = list(map(lambda a: random.randint(1, 10), r))
+    FirstName = list(map(lambda a: FAKE.first_name(), r))
+    LastName  = list(map(lambda a: FAKE.last_name(), r))
+    Email = list(map(lambda a: FAKE.ascii_email(), r))
+    Date_of_birth = list(map(lambda a: FAKE.date_time_this_decade() - datetime.timedelta(days=random.randint(9000, 20000)), r))
+    Date_of_birth = list(map(lambda a: str(a)[:-9].replace("-", "/"), Date_of_birth))
 
-    srcAirportID = list(map(lambda a: random.randint(1, n), r))
-    dstCityID = list(map(lambda a: random.randint(1, n), r))
-    coloms_name = ("shuttleID", "busCount", "startTime", "endTime", "description", "dstCityID", "srcAirportID")
-    t_name = "ShuttleBusLine"
+    coloms_name = ("CuratorId", "FIRSTNAME","LastName","Email","RANK","Date_of_birth")
+    t_name = "SORIA.CURATOR"
 
     data = ""
     for i in r:
         data += (
                 f"insert into {t_name} ({', '.join(coloms_name)}) values "
-                + f"({shuttleID[i - 1]}, '{busCount[i - 1]}', to_date('{startTime[i - 1]}','HH24:MI'), to_date('{endTime[i - 1]}','HH24:MI'), '{description[i - 1]}', {srcAirportID[i - 1]}, {dstCityID[i - 1]});\n"
+                + f"({CuratorId[i - 1]}, '{FirstName[i - 1]}' , '{LastName[i - 1]}', '{Email[i - 1]}', {Rank[i - 1]}, to_date('{Date_of_birth[i - 1]}', 'YYYY/MM/DD'));\n"
         )
 
-    with open("gen_Suttle.sql", "w") as f:
+    with open("sql/gen_Curator.sql", "w") as f:
         f.write(data)
 
 
-getCurator(4000)
+getCurator(20000)
