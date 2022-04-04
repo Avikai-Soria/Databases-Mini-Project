@@ -36,8 +36,8 @@ CREATE TABLE ExhibitHistory
   ExhibitId INT NOT NULL,
   Status VARCHAR(40) NOT NULL,
   DateIncome DATE NOT NULL,
-  PRIMARY KEY (ExhibitHistoryId)
-  FOREIGN KEY (ExhibitionId) REFERENCES Exhibition(ExhibitionId)
+  PRIMARY KEY (ExhibitHistoryId),
+  FOREIGN KEY (ExhibitId) REFERENCES Exhibit(ExhibitId)
 );
 
 CREATE TABLE ExhibitionAtDepartment 
@@ -45,8 +45,8 @@ CREATE TABLE ExhibitionAtDepartment
   ExhibitionAtDepartmentId INT NOT NULL,
   DepartmentId INT NOT NULL,
   ExhibitionId INT NOT NULL,
-  PRIMARY KEY (ExhibitionAtDepartment),
-  FOREIGN KEY (DepartmentId) REFERENCES Department (DepartmentId),
+  PRIMARY KEY (ExhibitionAtDepartmentId),
+  FOREIGN KEY (DepartmentId) REFERENCES ZAGURI.DEPARTMENT (DepartmentId),
   FOREIGN KEY (ExhibitionId) REFERENCES Exhibition(ExhibitionId)
 );
 
@@ -55,7 +55,7 @@ CREATE TABLE ExhibitAtExhibition
   ExhibitAtExhibitionId INT NOT NULL,
   ExhibitId INT NOT NULL,
   ExhibitionId INT NOT NULL,
-  PRIMARY KEY (ExhibitAtExhibition),
+  PRIMARY KEY (ExhibitAtExhibitionId),
   FOREIGN KEY (ExhibitId) REFERENCES Exhibit(ExhibitId),
   FOREIGN KEY (ExhibitionId) REFERENCES Exhibition(ExhibitionId)
 );
@@ -66,14 +66,8 @@ CREATE TABLE CuratorAtExhibition
   SalaryForCurator INT NOT NULL,
   CuratorId INT NOT NULL,
   ExhibitionId INT NOT NULL,
-  PRIMARY KEY (CuratorAtExhibition),
+  PRIMARY KEY (CuratorAtExhibitionId),
   FOREIGN KEY (CuratorId) REFERENCES Curator(CuratorId),
   FOREIGN KEY (ExhibitionId) REFERENCES Exhibition(ExhibitionId)
 );
 
-
-CREATE TABLE Department
-(
-  DepartmentId INT NOT NULL,
-  PRIMARY KEY (DepartmentId),
-);
