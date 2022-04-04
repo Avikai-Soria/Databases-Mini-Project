@@ -24,7 +24,7 @@ def getExhibitHistory(n: int):
     for i in r:
         data += (
                 f"insert into {t_name} ({', '.join(colums_name)}) values "
-                + f"({ExhibitHistoryId[i - 1]}, {ExhibitId[i - 1]} , '{Status[i - 1]}',to_date('{DateIncome[i - 1]}', 'YYYY/MM/DD HH24:MI');\n"
+                + f"({ExhibitHistoryId[i - 1]}, {ExhibitId[i - 1]} , '{Status[i - 1]}',to_date('{DateIncome[i - 1]}', 'YYYY/MM/DD HH24:MI');\n)"
         )
 
     with open("sql/gen_ExhibitHistory.sql", "w") as f:
