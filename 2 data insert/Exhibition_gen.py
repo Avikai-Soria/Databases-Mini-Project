@@ -35,7 +35,7 @@ def getExhibition(n: int):
     for i in r:
         data += (
                 f"insert into {t_name} ({', '.join(colums_name)}) values "
-                + f"({ExhibitionId[i - 1]},'{URL[i - 1]}', {Genre[i - 1]}"
+                + f"({ExhibitionId[i - 1]},'{URL[i - 1]}', '{Genre[i - 1]}'"
                 + f",to_date('{StartTime[i - 1]}', 'YYYY/MM/DD')"
                 + f",to_date('{EndTime[i - 1]}', 'YYYY/MM/DD'));\n"
         )
