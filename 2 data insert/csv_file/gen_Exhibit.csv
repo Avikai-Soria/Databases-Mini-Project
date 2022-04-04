@@ -302,7 +302,7 @@ ExhibitId, Name, Price, DatePurchased
 301,Hurdy Gurdy,560.2,2001/12/24
 302,Jews harp,766.4,2017/09/01
 303,Nyckelharpa (Swedish key harp),187.3,2004/03/06
-304,"Cymbals  crash,444.8,2007/01/23
+304,Cymbals  crash,444.8,2007/01/23
 305,Alto clarinet,145.3,2015/10/04
 306,Domra (Russian mandolin),804.2,2006/02/14
 307,Tenor saxophone,445.2,1994/05/24
@@ -765,7 +765,7 @@ ExhibitId, Name, Price, DatePurchased
 764,Gaida (Southern Balkan bagpipes),349.4,2008/07/31
 765,Lyre,40.5,2009/08/18
 766,Santur (North Indian hammered zither),513.3,2003/08/01
-767,"Bandola (plucked lute from Cuba,291.8,2017/07/16
+767,Bandola (plucked lute from Cuba,291.8,2017/07/16
 768,Glockenspiel,760.4,2014/08/23
 769,Saung (Burmese harp),286.6,2001/10/07
 770,Banhu (Chinese bowed stringed instrument),189.1,2000/09/02
@@ -811,7 +811,7 @@ ExhibitId, Name, Price, DatePurchased
 810,Igil (Tuvan bowed instrument),75.3,2006/12/28
 811,Dotara (bass ektara),843.4,2007/07/12
 812,Domra (Russian mandolin),497.3,2009/09/22
-813,"Bandola (plucked lute from Cuba,763.9,2019/04/27
+813,Bandola (plucked lute from Cuba,763.9,2019/04/27
 814,Bongo drum,132.3,2011/10/29
 815,Berimbau (Brazilian musical bow),188.7,2006/10/02
 816,Northumbrian smallpipes,818.5,2003/10/24
@@ -913,7 +913,7 @@ ExhibitId, Name, Price, DatePurchased
 912,Hichiriki (Japanese Oboe),144.6,2008/07/26
 913,Ocarina,343.1,2010/10/18
 914,Bombardino (Spanish Euphonium),492.1,1995/07/20
-915,"Cymbals  crash,201.0,2002/07/02
+915,Cymbals  crash,201.0,2002/07/02
 916,Gusle/ gusla (Balkan guitar),411.5,1994/11/01
 917,Mijwiz (Arabic double pipe),265.6,2005/08/10
 918,Clavichord,18.3,2010/09/17
@@ -1042,7 +1042,7 @@ ExhibitId, Name, Price, DatePurchased
 1041,Bullroarer,801.0,2005/03/03
 1042,Cimpoi (Romanian bagpipe),185.1,2005/11/13
 1043,Bass saxophone,171.7,2002/02/02
-1044,"Bandola (plucked lute from Cuba,311.3,1996/04/06
+1044,Bandola (plucked lute from Cuba,311.3,1996/04/06
 1045,Octocontrabass clarinet,791.5,2001/06/16
 1046,Kwa-yen (Chinese hanging drum),904.8,2016/08/20
 1047,Musette bressane (French bagpipe),227.6,2014/04/01
@@ -1203,7 +1203,7 @@ ExhibitId, Name, Price, DatePurchased
 1202,Banjo,405.1,2005/02/07
 1203,Igil (Tuvan bowed instrument),998.4,1996/01/06
 1204,Ney (Lebanese Flute),859.5,2002/02/25
-1205,"Cymbals  crash,538.7,2016/04/26
+1205,Cymbals  crash,538.7,2016/04/26
 1206,Yayli tanbur (Turkish lute),175.9,2008/07/20
 1207,Quena (Andean flute),76.3,2004/02/28
 1208,Erxian (Chinese bowed stringed instrument),671.7,2005/11/28
@@ -1503,7 +1503,7 @@ ExhibitId, Name, Price, DatePurchased
 1502,Roman tuba,394.9,2005/04/07
 1503,Rajao (Portuguese guitar),132.6,2002/10/24
 1504,Vihuela (Spanish 2-string guitar),541.9,2005/10/18
-1505,"Bandola (plucked lute from Cuba,262.5,2013/08/03
+1505,Bandola (plucked lute from Cuba,262.5,2013/08/03
 1506,Sang-auk (Burmese harp),62.5,2003/06/13
 1507,Roman tuba,349.0,2014/01/24
 1508,Cymbalum (Western European hammered dulcimer),845.1,2012/11/22
@@ -1874,7 +1874,7 @@ ExhibitId, Name, Price, DatePurchased
 1873,Knatele (Finnish zither),535.2,2005/09/08
 1874,Jiaohu (Chinese bowed stringed instrument),597.7,2007/01/25
 1875,Bassoon,304.5,1997/03/26
-1876,"Bandola (plucked lute from Cuba,139.4,2002/07/22
+1876,Bandola (plucked lute from Cuba,139.4,2002/07/22
 1877,Xylorimba (extended range xylophone),551.5,2007/05/04
 1878,T?rogat? (Hungarian shawm),446.7,2007/05/20
 1879,Tuba,827.1,2004/03/18
@@ -2218,7 +2218,7 @@ ExhibitId, Name, Price, DatePurchased
 2217,Tuba,161.5,2011/04/01
 2218,Tenor horn,737.2,1998/04/27
 2219,Octocontra-alto clarinet,705.8,2001/04/24
-2220,"Bandola (plucked lute from Cuba,45.2,2010/03/25
+2220,Bandola (plucked lute from Cuba,45.2,2010/03/25
 2221,Electronic:,299.3,2005/04/15
 2222,Morin khuur/ morin huur (Mongolian fiddle),89.7,2015/09/01
 2223,Cavaco (Spanish guitar),884.4,2000/04/14
@@ -2529,7 +2529,7 @@ ExhibitId, Name, Price, DatePurchased
 2528,Duct Flute,663.2,2007/12/21
 2529,Sousaphone,954.0,2005/07/10
 2530,Cigar box guitar,237.1,1999/02/23
-2531,"Bandola (plucked lute from Cuba,831.7,2015/01/09
+2531,Bandola (plucked lute from Cuba,831.7,2015/01/09
 2532,Contrabass Sarrusophone,797.2,2009/10/25
 2533,Piccolo clarinet,861.5,2013/03/29
 2534,Kutiyapi (Philippine fretted boat-lute),395.4,2017/09/16
@@ -2681,7 +2681,7 @@ ExhibitId, Name, Price, DatePurchased
 2680,Koto (Japanese zither),872.5,2007/07/25
 2681,Arpeggione (Italian six-string),141.5,2016/07/31
 2682,Mohan veena (Indian guitar),431.4,2018/06/10
-2683,"Cymbals  crash,611.5,2009/11/29
+2683,Cymbals  crash,611.5,2009/11/29
 2684,Contra-alto clarinet,657.3,2008/02/27
 2685,Gayageum (Korean zither),526.2,1997/12/26
 2686,Musette du centre (French bagpipe),589.2,1998/08/11
@@ -3775,7 +3775,7 @@ ExhibitId, Name, Price, DatePurchased
 3774,Qanun (Turkish zither),849.0,2006/12/06
 3775,Dholak (North Indian hand drum),690.4,1994/04/19
 3776,Banhu (Chinese bowed stringed instrument),240.1,2001/01/13
-3777,"Cymbals  crash,671.1,1995/06/10
+3777,Cymbals  crash,671.1,1995/06/10
 3778,Rainstick,201.7,2015/03/01
 3779,Vielle (French hurdy gurdy),647.2,2001/11/13
 3780,Irish bouzouki,245.1,2011/09/04
@@ -4120,7 +4120,7 @@ ExhibitId, Name, Price, DatePurchased
 4119,English Horn/ Cor Anglais (French tenor Oboe),717.9,2005/05/15
 4120,Chapman stick (fretboard),766.8,1997/03/11
 4121,Baritone horn,214.7,1998/03/11
-4122,"Bandola (plucked lute from Cuba,824.7,2007/03/16
+4122,Bandola (plucked lute from Cuba,824.7,2007/03/16
 4123,Gong,20.1,2008/10/10
 4124,Roman tuba,806.8,2015/04/02
 4125,Steel drum,276.2,2007/08/08
@@ -4877,7 +4877,7 @@ ExhibitId, Name, Price, DatePurchased
 4876,Tan-tan (Brazilian hand drum),260.1,2007/05/02
 4877,Bazooka (telescopic brass tubing),463.5,2003/10/12
 4878,Timpani/ kettle drum,767.8,2011/08/22
-4879,"Bandola (plucked lute from Cuba,625.2,1997/03/29
+4879,Bandola (plucked lute from Cuba,625.2,1997/03/29
 4880,Boha (French bagpipe),55.0,1999/07/02
 4881,Mellophone,204.5,2003/03/06
 4882,Saw ou (Thai bowed stringed instrument),99.2,1998/11/25
@@ -5268,7 +5268,7 @@ ExhibitId, Name, Price, DatePurchased
 5267,Sampler,123.6,2014/07/16
 5268,Lambeg (Irish drum),719.3,2002/04/15
 5269,Oboe da caccia,992.4,2009/02/06
-5270,"Bandola (plucked lute from Cuba,224.3,2013/05/14
+5270,Bandola (plucked lute from Cuba,224.3,2013/05/14
 5271,Sopranino clarinet,383.3,2001/04/09
 5272,Kwa-yen (Chinese hanging drum),741.8,1996/09/19
 5273,Piccolo clarinet,92.7,2007/06/26
@@ -5943,7 +5943,7 @@ ExhibitId, Name, Price, DatePurchased
 5942,Crotales (Struck cymbals),790.2,2002/06/08
 5943,Overtone guitar,716.1,2016/09/07
 5944,Washboard,70.5,2017/04/17
-5945,"Cymbals  crash,526.1,1998/07/19
+5945,Cymbals  crash,526.1,1998/07/19
 5946,Yun Lo (Chinese gong),67.4,1996/03/10
 5947,Guitar,761.3,2013/05/09
 5948,Tambourine,155.0,2005/07/25
@@ -6002,7 +6002,7 @@ ExhibitId, Name, Price, DatePurchased
 6001,Cabrette (French bagpipe),847.5,2003/06/03
 6002,Valiha (Indonesian and Madagascan zither),616.6,2016/07/09
 6003,Vladimirsky Rozhok,891.5,2003/03/24
-6004,"Cymbals  crash,981.0,2013/09/30
+6004,Cymbals  crash,981.0,2013/09/30
 6005,Piva (Northern Italian bagpipe),507.9,1999/07/18
 6006,Piccolo heckelphone,946.1,2007/04/28
 6007,Basse a Pistons (French Euphonium),504.2,2017/07/28
@@ -6236,7 +6236,7 @@ ExhibitId, Name, Price, DatePurchased
 6235,Cigar box guitar,900.9,2012/06/16
 6236,Tulum (Turkish bagpipe),717.5,2000/11/26
 6237,Rattle,46.6,2002/04/28
-6238,"Bandola (plucked lute from Cuba,764.3,2005/11/03
+6238,Bandola (plucked lute from Cuba,764.3,2005/11/03
 6239,Guzheng (Chinese zither),556.2,1999/10/21
 6240,Bandone?n (Argentinian concertina),592.5,2012/07/05
 6241,Viola,737.2,1993/07/03
@@ -6419,7 +6419,7 @@ ExhibitId, Name, Price, DatePurchased
 6418,Harmonium/ reed organ,150.3,2005/02/07
 6419,Baritone saxophone,121.2,2009/03/12
 6420,Crumhorn,529.7,1995/10/31
-6421,"Bandola (plucked lute from Cuba,339.4,2000/10/26
+6421,Bandola (plucked lute from Cuba,339.4,2000/10/26
 6422,Talking drum,686.8,2005/01/07
 6423,Babendil (Philippine gong),154.9,1997/01/01
 6424,Lancashire great-pipe,654.4,2002/08/21
@@ -6959,7 +6959,7 @@ ExhibitId, Name, Price, DatePurchased
 6958,Kwa-yen (Chinese hanging drum),601.0,2009/06/01
 6959,Gender (Indonesian brass xylophone),775.1,1997/12/26
 6960,Castanets,801.4,2012/07/26
-6961,"Bandola (plucked lute from Cuba,90.2,2008/05/23
+6961,Bandola (plucked lute from Cuba,90.2,2008/05/23
 6962,Basse Cor,657.2,1996/02/24
 6963,Tumpong (Philippine flute),456.8,1995/11/01
 6964,Jinghu (Chinese bowed stringed instrument),381.2,2004/02/21
@@ -7050,7 +7050,7 @@ ExhibitId, Name, Price, DatePurchased
 7049,Alpine bell,909.3,2009/07/11
 7050,Ophicleide,660.7,2004/05/29
 7051,Contrabass flute,346.0,2002/12/05
-7052,"Cymbals  crash,780.3,2004/10/10
+7052,Cymbals  crash,780.3,2004/10/10
 7053,Hichiriki (Japanese Oboe),242.8,2014/09/30
 7054,Teponaztli (Mexican wooden drum),364.7,1997/12/20
 7055,Harmonica/ Mouth Organ,712.6,2007/11/05
@@ -7154,7 +7154,7 @@ ExhibitId, Name, Price, DatePurchased
 7153,Crwth (Welsh stringed instrument),848.0,2016/01/11
 7154,Ghatam (Indian drum),596.7,2003/08/21
 7155,Contrabass oboe,770.3,1998/12/03
-7156,"Cymbals  crash,693.3,2018/07/31
+7156,Cymbals  crash,693.3,2018/07/31
 7157,Tenoroon (tenor bassoon),484.9,2016/02/25
 7158,Hunting Horn,79.3,2011/11/25
 7159,Gajdy (Eastern European bagpipes),314.3,2006/09/11
@@ -8353,7 +8353,7 @@ ExhibitId, Name, Price, DatePurchased
 8352,Dulcian (pre-1700s Western European Bassoon),998.5,2009/12/22
 8353,Contrabass flute,60.3,2015/06/12
 8354,Natural Trumpet,251.7,2015/06/17
-8355,"Cymbals  crash,778.0,2001/01/27
+8355,Cymbals  crash,778.0,2001/01/27
 8356,Heckelphone,990.2,1999/10/10
 8357,Nay (Syrian wooden flute),752.3,1995/09/04
 8358,Welsh pipes,326.4,1995/06/15
@@ -8595,7 +8595,7 @@ ExhibitId, Name, Price, DatePurchased
 8594,Darvyra (Greek Duct Flute),491.8,2006/11/24
 8595,Bass flute,421.4,2015/05/03
 8596,Cymbalum (Western European hammered dulcimer),423.7,2007/05/28
-8597,"Cymbals  crash,93.1,2014/06/30
+8597,Cymbals  crash,93.1,2014/06/30
 8598,Chitarra battente (Italian guitar),889.1,2012/09/17
 8599,Dubreq stylophone,508.6,1999/11/05
 8600,Nadaswaram (Indian wind instrument),774.4,2005/03/08
@@ -8708,7 +8708,7 @@ ExhibitId, Name, Price, DatePurchased
 8707,Irish bouzouki,159.5,2001/10/20
 8708,Sarunay/ saronay/ sarunai/ saronai (Philippine metallophone),166.2,1998/05/14
 8709,K?n b?u (Vietnamese reed),651.2,1995/03/07
-8710,"Bandola (plucked lute from Cuba,334.6,1996/07/12
+8710,Bandola (plucked lute from Cuba,334.6,1996/07/12
 8711,Khloy (Cambodian flute),646.5,1996/01/07
 8712,Banhu (Chinese bowed stringed instrument),410.1,1997/11/21
 8713,Viola,903.3,2002/06/21
@@ -8968,7 +8968,7 @@ ExhibitId, Name, Price, DatePurchased
 8967,Finger Cymbals,238.4,2016/06/07
 8968,Tsampouna (Greek bagpipe),439.9,2005/02/26
 8969,Musette de cour (French bagpipe),625.8,2014/03/18
-8970,"Cymbals  crash,81.5,2004/06/14
+8970,Cymbals  crash,81.5,2004/06/14
 8971,Saw ou (Thai bowed stringed instrument),489.3,2012/09/24
 8972,Rebab (Arabic bowed stringed instrument),175.8,2016/07/30
 8973,Tenoroon (tenor bassoon),337.0,2008/11/10
@@ -9972,7 +9972,7 @@ ExhibitId, Name, Price, DatePurchased
 9971,Whip,561.7,2017/12/23
 9972,Welsh pipes,851.7,2002/11/18
 9973,Tagutok (Philippine slit drum),522.9,2006/06/10
-9974,"Bandola (plucked lute from Cuba,390.7,2013/12/07
+9974,Bandola (plucked lute from Cuba,390.7,2013/12/07
 9975,Ceng (Turkish harp),246.3,2000/10/17
 9976,Kokyu (Japanese bowed instrument),40.9,2008/10/02
 9977,Clavicembelo (Italian pianoforte),567.8,2005/10/27
@@ -10284,7 +10284,7 @@ ExhibitId, Name, Price, DatePurchased
 10283,Moodswinger (zither),732.0,2001/07/01
 10284,Clapped hands,655.0,2003/07/24
 10285,Daraboukka (Syrian drum),846.0,2011/02/14
-10286,"Cymbals  crash,428.7,2014/02/12
+10286,Cymbals  crash,428.7,2014/02/12
 10287,Tar (Persian lute),413.6,2001/08/01
 10288,Ney (Lebanese Flute),598.0,2001/09/21
 10289,Sheng (Chinese mouth organ),352.6,2003/05/09
@@ -11663,7 +11663,7 @@ ExhibitId, Name, Price, DatePurchased
 11662,Flute,423.4,2007/01/31
 11663,Hun (Korean flute),114.3,2005/04/18
 11664,Timpani/ kettle drum,940.3,1997/09/09
-11665,"Bandola (plucked lute from Cuba,617.4,2012/09/24
+11665,Bandola (plucked lute from Cuba,617.4,2012/09/24
 11666,Tulum (Turkish bagpipe),19.5,2000/02/03
 11667,Moodswinger (zither),59.9,2013/05/14
 11668,Siren,823.4,2007/06/07
@@ -11714,7 +11714,7 @@ ExhibitId, Name, Price, DatePurchased
 11713,Ukulele (Hawaiian guitar),440.7,1993/09/01
 11714,Duxianqin (Chinese one-stringed zither),710.0,2012/12/30
 11715,Sopranino clarinet,686.6,1998/09/04
-11716,"Cymbals  crash,869.8,2005/03/04
+11716,Cymbals  crash,869.8,2005/03/04
 11717,Cello,382.3,2012/06/27
 11718,Taphon (Thai drum),246.7,2005/04/01
 11719,Xalam/ khalam (West African Banjo-like instrument),634.9,2011/04/08
@@ -11726,7 +11726,7 @@ ExhibitId, Name, Price, DatePurchased
 11725,Washint (Ethiopian flute),620.3,2001/08/26
 11726,Tenor horn,306.0,2010/04/23
 11727,Double contrabass flute,549.5,2009/05/20
-11728,"Cymbals  crash,779.7,1996/05/29
+11728,Cymbals  crash,779.7,1996/05/29
 11729,Dulzaina (Spanish oboe),379.6,2008/02/29
 11730,Berimbau (Brazilian musical bow),603.2,2009/04/17
 11731,Duxianqin (Chinese one-stringed zither),409.0,2013/12/07
@@ -11748,7 +11748,7 @@ ExhibitId, Name, Price, DatePurchased
 11747,Paixiao (Chinese flute),897.0,2012/12/11
 11748,Tenoroon (tenor bassoon),710.3,2016/12/05
 11749,Lithophone (stone barred xylophone),709.1,2017/11/03
-11750,"Cymbals  crash,113.1,2016/03/30
+11750,Cymbals  crash,113.1,2016/03/30
 11751,Xiao (Chinese flute),432.6,2005/12/25
 11752,Steel drum,32.8,1997/01/29
 11753,Hardanger fiddle,549.2,2016/01/30
@@ -11994,7 +11994,7 @@ ExhibitId, Name, Price, DatePurchased
 11993,Boha (French bagpipe),527.9,2011/03/06
 11994,Huluhu (Chinese bowed stringed instrument),843.1,2014/02/20
 11995,Cigar box guitar,807.6,2015/04/09
-11996,"Bandola (plucked lute from Cuba,986.7,2015/11/14
+11996,Bandola (plucked lute from Cuba,986.7,2015/11/14
 11997,Shinobue (Japanese flute),647.9,2002/08/15
 11998,Mandolin,947.7,2008/08/24
 11999,Dadihu (contrabass erhu),119.6,1992/12/01
@@ -12013,7 +12013,7 @@ ExhibitId, Name, Price, DatePurchased
 12012,Gaohu (Chinese bowed stringed instrument),991.9,2006/08/15
 12013,Aulochrome (double soprano saxophone),824.9,2009/05/19
 12014,Vichitra veena (Indian stringed instrument),726.9,2014/08/17
-12015,"Bandola (plucked lute from Cuba,808.6,1993/07/13
+12015,Bandola (plucked lute from Cuba,808.6,1993/07/13
 12016,Khim (Cambodian/ Thai hammered dulcimer),790.7,2004/03/16
 12017,Marinbaphone,364.5,2012/12/01
 12018,Finger Cymbals,43.4,2017/02/22
@@ -12735,7 +12735,7 @@ ExhibitId, Name, Price, DatePurchased
 12734,Zampogna (Italian bagpipe),236.6,1997/11/01
 12735,Lyre,229.2,2017/11/18
 12736,Sabar (Senegalese drum),235.3,2018/02/14
-12737,"Bandola (plucked lute from Cuba,507.0,2004/02/16
+12737,Bandola (plucked lute from Cuba,507.0,2004/02/16
 12738,Koudi (Chinese flute),957.1,2013/05/11
 12739,Bongo drum,253.9,2008/10/20
 12740,Tenor horn,871.4,2007/06/13
@@ -12897,7 +12897,7 @@ ExhibitId, Name, Price, DatePurchased
 12896,Saraswati veena (South Indian lute),853.3,1998/07/13
 12897,Acoustic bass guitar,963.7,2008/06/23
 12898,Igil (Tuvan bowed instrument),345.9,2015/11/29
-12899,"Cymbals  crash,908.0,1998/11/29
+12899,Cymbals  crash,908.0,1998/11/29
 12900,Triangle,901.6,2000/03/12
 12901,Crotales (Struck cymbals),270.2,2004/07/25
 12902,Croatian bagpipes,113.3,2011/06/07
@@ -13294,11 +13294,11 @@ ExhibitId, Name, Price, DatePurchased
 13293,Thavil (Indian drum),505.6,2009/11/14
 13294,Acoustic guitar,582.7,2004/12/03
 13295,Great Irish warpipes,942.5,2001/03/17
-13296,"Bandola (plucked lute from Cuba,761.4,2009/10/10
+13296,Bandola (plucked lute from Cuba,761.4,2009/10/10
 13297,Dutar (Central Asian lute),631.2,2012/04/06
 13298,Tagutok (Philippine slit drum),580.2,2017/06/21
 13299,Sheng (Chinese mouth organ),117.7,2001/05/02
-13300,"Bandola (plucked lute from Cuba,166.0,2010/08/17
+13300,Bandola (plucked lute from Cuba,166.0,2010/08/17
 13301,Tom-tom,807.8,2011/07/18
 13302,Washint (Ethiopian flute),398.6,2012/04/10
 13303,Ipu (Hawaiian rattle),416.7,2001/12/14
@@ -13555,7 +13555,7 @@ ExhibitId, Name, Price, DatePurchased
 13554,Ukulele (Hawaiian guitar),328.1,1995/08/09
 13555,Shinobue (Japanese flute),105.4,2017/09/16
 13556,Baroque Wooden Flute,961.6,2006/08/13
-13557,"Bandola (plucked lute from Cuba,130.2,1995/05/06
+13557,Bandola (plucked lute from Cuba,130.2,1995/05/06
 13558,Khim (Cambodian/ Thai hammered dulcimer),786.4,1999/12/12
 13559,Ektara (Indian one-string),738.5,2017/07/14
 13560,Electronic:,740.0,1997/11/07
@@ -14003,7 +14003,7 @@ ExhibitId, Name, Price, DatePurchased
 14002,Heckelphone,433.9,1997/07/24
 14003,Guitarr?n (Mexican large bass guitar),792.0,2012/09/17
 14004,Morin khuur/ morin huur (Mongolian fiddle),125.9,2012/02/03
-14005,"Cymbals  crash,402.9,2016/12/21
+14005,Cymbals  crash,402.9,2016/12/21
 14006,Cabrette (French bagpipe),766.9,2017/12/02
 14007,Bodega (French bagpipe),404.5,1994/10/11
 14008,Mbira/ Sanza/ Thumb Piano (African stringed instrument),814.8,2016/12/27
@@ -14508,7 +14508,7 @@ ExhibitId, Name, Price, DatePurchased
 14507,Mbira/ Sanza/ Thumb Piano (African stringed instrument),462.5,2017/01/16
 14508,Xylorimba (extended range xylophone),911.9,1995/11/20
 14509,Gandingan a kayo (Philippine xylophone),938.5,2017/06/16
-14510,"Cymbals  crash,315.0,2002/09/12
+14510,Cymbals  crash,315.0,2002/09/12
 14511,Mbira/ Sanza/ Thumb Piano (African stringed instrument),234.7,2001/04/28
 14512,Chimes,48.7,2003/03/29
 14513,Ceng (Turkish harp),999.9,1998/10/16
@@ -14730,7 +14730,7 @@ ExhibitId, Name, Price, DatePurchased
 14729,Gambang (Indonesian xylophone),99.3,2012/05/16
 14730,Ondes martenot (electronic keyboard and slide),524.6,2017/01/15
 14731,Psaltery (plucked zither),373.5,1994/03/12
-14732,"Cymbals  crash,201.7,2015/06/03
+14732,Cymbals  crash,201.7,2015/06/03
 14733,Sallaneh (Iranian plucked stringed instrument),11.5,2010/05/25
 14734,Cuatro (Latin American lute),262.6,2011/09/10
 14735,Shamisen (Japanese 3-stringed instrument),292.3,2014/05/06
@@ -15003,7 +15003,7 @@ ExhibitId, Name, Price, DatePurchased
 15002,Mijwiz (Arabic double pipe),576.6,1995/12/14
 15003,Xylorimba (extended range xylophone),367.1,2017/11/14
 15004,Ahoko (Ivory Coast rattle),342.7,1997/03/11
-15005,"Cymbals  crash,750.7,1995/08/21
+15005,Cymbals  crash,750.7,1995/08/21
 15006,Laruan (Chinese stringed instrument),59.8,2001/03/16
 15007,Gayageum (Korean zither),515.0,2001/05/26
 15008,Alto flute,215.3,2008/12/18
@@ -15104,7 +15104,7 @@ ExhibitId, Name, Price, DatePurchased
 15103,Se (Chinese zither),541.6,2008/01/14
 15104,Baroque Wooden Flute,868.0,1999/03/13
 15105,Gusli (Russian harp),933.0,1995/03/07
-15106,"Bandola (plucked lute from Cuba,176.9,2006/07/01
+15106,Bandola (plucked lute from Cuba,176.9,2006/07/01
 15107,Kutiyapi (Philippine fretted boat-lute),466.9,2018/02/18
 15108,Bayan (Russian Accordion),601.1,2009/07/08
 15109,Qanun (Turkish zither),248.9,2006/04/11
@@ -15197,7 +15197,7 @@ ExhibitId, Name, Price, DatePurchased
 15196,Saxonette,14.4,1997/01/01
 15197,Cello,265.6,1997/10/31
 15198,Sac de gemecs (Catalonian bagpipe),740.1,2017/01/03
-15199,"Cymbals  crash,404.7,2007/02/19
+15199,Cymbals  crash,404.7,2007/02/19
 15200,Se (Chinese zither),628.8,1996/10/23
 15201,Tumpong (Philippine flute),280.5,1996/09/23
 15202,Cavaquinho (Portuguese guitar),584.7,2009/11/20
@@ -15237,7 +15237,7 @@ ExhibitId, Name, Price, DatePurchased
 15236,Musette de cour (French bagpipe),64.3,2008/07/06
 15237,Tamburitza (Croatian/ Serbian mandolin),920.3,1993/11/22
 15238,Crotales (Struck cymbals),621.0,2013/11/20
-15239,"Cymbals  crash,887.7,2008/11/17
+15239,Cymbals  crash,887.7,2008/11/17
 15240,Tonette (plastic recorder),570.9,2005/12/31
 15241,Alto saxophone,267.5,2004/10/14
 15242,Sopranino saxophone,455.0,2004/04/10
@@ -15350,7 +15350,7 @@ ExhibitId, Name, Price, DatePurchased
 15349,Bodhr?n (Irish drum),909.5,2002/01/29
 15350,Subcontrabass saxophone,883.9,1995/02/16
 15351,Kangling (Tibetan serunai),541.9,2010/06/04
-15352,"Bandola (plucked lute from Cuba,167.3,2012/05/09
+15352,Bandola (plucked lute from Cuba,167.3,2012/05/09
 15353,Ruan (Chinese plucked stringed instrument),824.0,2011/03/20
 15354,Bass / baritone oboe,457.2,1999/11/16
 15355,Teponaztli (Mexican wooden drum),58.6,2018/03/05
@@ -15381,7 +15381,7 @@ ExhibitId, Name, Price, DatePurchased
 15380,Soprano clarinet,30.3,1998/07/10
 15381,Kissar (West African lyre),782.1,2012/06/02
 15382,Concertina,474.0,2004/07/18
-15383,"Cymbals  crash,491.9,2014/03/27
+15383,Cymbals  crash,491.9,2014/03/27
 15384,Alto horn,312.7,2015/10/23
 15385,Balafon (xylophone from Ghana),463.9,2004/02/21
 15386,Quinticlave (Ophicleide),443.6,1999/11/10
@@ -15645,7 +15645,7 @@ ExhibitId, Name, Price, DatePurchased
 15644,Khloy (Cambodian flute),240.7,2016/01/03
 15645,Se (Chinese zither),379.4,1994/08/30
 15646,Chromatic accordian,893.8,2002/12/16
-15647,"Bandola (plucked lute from Cuba,796.8,2005/06/07
+15647,Bandola (plucked lute from Cuba,796.8,2005/06/07
 15648,Shawm (Renaissance oboe),265.7,2002/04/29
 15649,Steel guitar,790.4,2015/06/09
 15650,Octavin,980.4,2003/09/11
@@ -16345,7 +16345,7 @@ ExhibitId, Name, Price, DatePurchased
 16344,Ajaeng,179.6,2007/06/24
 16345,Ratchet,650.4,2009/12/22
 16346,Gaida (Southern Balkan bagpipes),669.6,2001/12/19
-16347,"Cymbals  crash,444.0,2007/02/10
+16347,Cymbals  crash,444.0,2007/02/10
 16348,Cavaquinho (Portuguese guitar),438.6,2000/09/10
 16349,Tsuri-daiko (Japanese hanging drum),522.1,1997/04/29
 16350,Octave mandolin,335.9,2010/10/27
@@ -17112,7 +17112,7 @@ ExhibitId, Name, Price, DatePurchased
 17111,Dudelsack (German bagpipe),689.9,2001/07/13
 17112,Conga (Caribbean drum),660.7,2008/09/24
 17113,Contra-alto clarinet,718.6,1995/04/19
-17114,"Bandola (plucked lute from Cuba,441.6,2002/04/06
+17114,Bandola (plucked lute from Cuba,441.6,2002/04/06
 17115,Diyingehu (contrabass gehu),707.7,2013/10/28
 17116,Electric guitar,572.2,2004/12/23
 17117,Clavichord,642.5,2001/10/08
@@ -17230,7 +17230,7 @@ ExhibitId, Name, Price, DatePurchased
 17229,Ney (Lebanese Flute),281.9,1996/12/24
 17230,Baritone saxophone,255.7,2015/08/05
 17231,Timple (Canary Islands/ Murcia ukulele),372.3,2011/04/15
-17232,"Bandola (plucked lute from Cuba,947.7,2005/10/18
+17232,Bandola (plucked lute from Cuba,947.7,2005/10/18
 17233,Hang (steel hand drum),777.9,2009/04/06
 17234,Fingerboard synthesizer,368.2,2008/09/20
 17235,Northumbrian smallpipes,847.2,1994/09/26
@@ -17687,7 +17687,7 @@ ExhibitId, Name, Price, DatePurchased
 17686,Octave mandolin,648.3,2002/05/09
 17687,Piccolo oboe,394.2,2002/03/23
 17688,Electric organ,285.7,2012/07/09
-17689,"Bandola (plucked lute from Cuba,137.0,2018/01/18
+17689,Bandola (plucked lute from Cuba,137.0,2018/01/18
 17690,Saenghwang (Korean mouth organ),20.3,2007/06/09
 17691,Guitar,255.3,2007/03/30
 17692,Baritone saxophone,845.3,1994/09/01
@@ -17782,7 +17782,7 @@ ExhibitId, Name, Price, DatePurchased
 17781,Acoustic guitar,956.0,1996/09/15
 17782,Dun dun (West African large talking drum),59.2,1997/08/14
 17783,Psaltery (plucked zither),22.0,2004/12/11
-17784,"Bandola (plucked lute from Cuba,778.9,2014/06/09
+17784,Bandola (plucked lute from Cuba,778.9,2014/06/09
 17785,Rainstick,204.0,2013/05/22
 17786,Button accordian,470.3,1995/04/19
 17787,Steel drum,912.0,2015/01/08
@@ -17810,7 +17810,7 @@ ExhibitId, Name, Price, DatePurchased
 17809,Tenor sarrusophone,845.4,2009/08/27
 17810,Organ - electric,865.5,2016/02/28
 17811,Zufalo (Italian flute),467.6,2000/01/25
-17812,"Bandola (plucked lute from Cuba,785.1,2002/06/27
+17812,Bandola (plucked lute from Cuba,785.1,2002/06/27
 17813,Agung (Philippine gong),445.7,2006/02/10
 17814,Pulalu (Philippine flute),464.8,1998/03/10
 17815,Sihu (Chinese bowed stringed instrument),752.7,2001/03/09
@@ -17948,7 +17948,7 @@ ExhibitId, Name, Price, DatePurchased
 17947,Alpine bell,133.6,2007/08/18
 17948,Piccolo,538.2,2004/04/25
 17949,Tan-tan (Brazilian hand drum),968.6,2011/06/19
-17950,"Bandola (plucked lute from Cuba,18.1,2007/09/06
+17950,Bandola (plucked lute from Cuba,18.1,2007/09/06
 17951,Theorbo (lower-toned lute),721.7,2010/08/09
 17952,Taphon (Thai drum),206.2,2018/06/20
 17953,Mellophone,532.8,2005/01/18
@@ -18672,7 +18672,7 @@ ExhibitId, Name, Price, DatePurchased
 18671,Tambour (French drum),449.0,2011/05/25
 18672,Dotara (bass ektara),932.3,2010/10/15
 18673,Mangtong (Chinese bamboo pipes),882.6,2005/11/23
-18674,"Cymbals  crash,452.9,2009/03/28
+18674,Cymbals  crash,452.9,2009/03/28
 18675,Ocarina,314.6,2005/08/27
 18676,Xun (Chinese flute),732.4,2008/11/06
 18677,Laruan (Chinese stringed instrument),494.8,2004/12/07
@@ -18878,14 +18878,14 @@ ExhibitId, Name, Price, DatePurchased
 18877,Lute,191.0,2000/09/21
 18878,Tro u (Cambodian bowed stringed instrument),407.2,2006/05/21
 18879,Aeolian Harp,307.9,2013/12/15
-18880,"Cymbals  crash,299.6,2003/08/24
+18880,Cymbals  crash,299.6,2003/08/24
 18881,Chabrette (French bagpipe),560.9,2008/10/25
 18882,Gan gan (West African small talking drum),287.3,2012/10/25
 18883,Hosho (Zimbabwean rattle),533.6,2001/08/15
 18884,Mando-bass (bass mandolin),349.2,2015/01/31
 18885,Ching (Cambodian/ Thai finger cymbals),734.9,2011/04/21
 18886,Bombardino (Spanish Euphonium),721.2,1995/08/14
-18887,"Bandola (plucked lute from Cuba,249.6,2000/12/29
+18887,Bandola (plucked lute from Cuba,249.6,2000/12/29
 18888,Kubing (Philippine Jews harp),869.0,2017/10/15
 18889,Charango (South American fretted lute),172.3,2004/07/23
 18890,Gottuvadhyam (Indian 21-stringed guitar),842.0,1993/11/04
@@ -18962,7 +18962,7 @@ ExhibitId, Name, Price, DatePurchased
 18961,Octocontra-alto clarinet,263.6,1997/01/03
 18962,Keyed Bugle,780.4,2015/09/29
 18963,Koziol (Polish bagpipe),610.6,1999/05/02
-18964,"Cymbals  crash,659.4,2009/01/20
+18964,Cymbals  crash,659.4,2009/01/20
 18965,T?rogat? (Hungarian shawm),673.6,2000/11/30
 18966,Carillon (Dutch harmonising bells),506.8,2009/08/20
 18967,Gaita (Portuguese & Spanish bagpipe),105.8,2001/01/31
@@ -18983,7 +18983,7 @@ ExhibitId, Name, Price, DatePurchased
 18982,Schweizer sackpfeife (Swiss bagpipe),605.9,2012/04/10
 18983,Cu?ca (Brazilian drum),808.7,1999/12/21
 18984,Musical bow,462.7,2007/05/20
-18985,"Cymbals  crash,809.3,2007/01/23
+18985,Cymbals  crash,809.3,2007/01/23
 18986,Gaita (Portuguese & Spanish bagpipe),161.9,1996/04/14
 18987,Hang (steel hand drum),101.9,2007/12/26
 18988,Malimba (xylophone from the Congo),898.6,2001/04/10
@@ -19367,7 +19367,7 @@ ExhibitId, Name, Price, DatePurchased
 19366,Tamburitza (Croatian/ Serbian mandolin),332.2,2002/02/02
 19367,Folgerphone,574.9,2000/05/16
 19368,Viola damore,274.4,1999/03/05
-19369,"Bandola (plucked lute from Cuba,87.2,2017/07/19
+19369,Bandola (plucked lute from Cuba,87.2,2017/07/19
 19370,Transverse Flute (Traditional Flute),533.5,2018/01/15
 19371,Hunting Horn,184.5,2008/11/23
 19372,Bongo drum,912.3,2006/08/01
@@ -19953,7 +19953,7 @@ ExhibitId, Name, Price, DatePurchased
 19952,Kulintang a putao/ kulintang a tiniok (Philippine metallophone),723.0,2002/06/21
 19953,Viola da gamba,835.7,1998/10/22
 19954,Angklung (tuned bamboo slide rattle),331.7,2016/02/13
-19955,"Bandola (plucked lute from Cuba,865.1,2005/08/15
+19955,Bandola (plucked lute from Cuba,865.1,2005/08/15
 19956,Kangling (Tibetan serunai),483.6,2008/09/13
 19957,Kwa-yen (Chinese hanging drum),859.4,2003/01/30
 19958,Gender (Indonesian brass xylophone),830.8,2017/02/04
