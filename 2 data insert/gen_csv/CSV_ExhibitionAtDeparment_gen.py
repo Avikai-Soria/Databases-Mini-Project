@@ -7,8 +7,8 @@ ExhibitionId = 0
 
 def getExhibitionAtDepartment(n: int):
     r = range(1, n + 1)
-    DepartmentId = random.sample(range(400), n)
-    ExhibitionId = random.sample(range(400), n)
+    DepartmentId = random.sample(range(800), n)
+    ExhibitionId = random.sample(range(800), n)
     ExhibitionAtDepartmentId = r
     coloms_name = ("DepartmentId", "ExhibitionId" , "ExhibitionAtDepartmentId")
     t_name = "SORIA.ExhibitionAtDepartment"
@@ -27,4 +27,4 @@ def getExhibitionAtDepartment(n: int):
         f.write(data)
 
 
-getExhibitionAtDepartment(400)
+getExhibitionAtDepartment(800)

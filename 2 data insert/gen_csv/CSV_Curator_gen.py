@@ -40,4 +40,4 @@ def getCurator(n: int):
         f.write(data)
 
 
-getCurator(20000)
+getCurator(40000)

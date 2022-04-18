@@ -6,8 +6,8 @@ def getCuratorAtExhibition(n: int):
     r = range(1, n + 1)
     CuratorAtExhibitionId = r
     SalaryForCurator = list(map(lambda a: random.randint(1, 100000), r))
-    CuratorId = list(map(lambda a: random.randint(1, 20000), r))
-    ExhibitionId = list(map(lambda a: random.randint(1, 400), r))
+    CuratorId = list(map(lambda a: random.randint(1, 40000), r))
+    ExhibitionId = list(map(lambda a: random.randint(1, 800), r))
     colums_name = ("CuratorAtExhibitionId", "SalaryForCurator", "CuratorId", "ExhibitionId")
     t_name = "SORIA.ExhibitAtExhibition"
 

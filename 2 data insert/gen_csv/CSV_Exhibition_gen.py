@@ -42,4 +42,4 @@ def getExhibition(n: int):
         f.write(data)
 
 
-getExhibition(400)
+getExhibition(800)

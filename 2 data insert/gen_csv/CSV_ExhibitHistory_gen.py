@@ -13,7 +13,7 @@ def getExhibitHistory(n: int):
     status_list = ["in repair", "displayed in exhibition", "in warehouse", "out of order", "stolen", "for auction"]
     Status = list(map(lambda a: status_list[random.randint(0, len(status_list) - 1)], r))
     ExhibitHistoryId = r
-    ExhibitId = list(map(lambda a: random.randint(1, 20000), r))
+    ExhibitId = list(map(lambda a: random.randint(1, 50000), r))
     DateIncome = list(map(lambda a: FAKE.date_time_this_decade() - timedelta(days=random.randint(0, 1000)), r))
     DateIncome = list(map(lambda a: str(a)[:-3].replace("-", "/"), DateIncome))
 
@@ -33,4 +33,4 @@ def getExhibitHistory(n: int):
         f.write(data)
 
 
-getExhibitHistory(1000)
+getExhibitHistory(2000)

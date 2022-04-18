@@ -5,8 +5,8 @@ import random
 def getExhibitAtExhibition(n: int):
     r = range(1, n + 1)
     ExhibitAtExhibitionId = r
-    ExhibitId = random.sample(range(20000), n)
-    ExhibitionId = list(map(lambda a: random.randint(1, 400), r))
+    ExhibitId = random.sample(range(50000), n)
+    ExhibitionId = list(map(lambda a: random.randint(1, 800), r))
     coloms_name = ("ExhibitId", "ExhibitionId", "ExhibitAtExhibitionId")
     t_name = "SORIA.ExhibitAtExhibition"
 
