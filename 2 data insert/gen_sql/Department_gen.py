@@ -17,4 +17,4 @@ def getDepartment(n: int):
         f.write(data)
 
 
-getDepartment(400)
+getDepartment(800)
