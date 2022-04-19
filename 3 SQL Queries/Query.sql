@@ -12,3 +12,8 @@ From Exhibit Natural Join ExhibitHistory
 Where Price > 700 and Status LIKE '%stolen%'
 Group By ExhibitId, Name, DatePurchased
 Having count(*) > 1
+
+Select DepartmentId
+From Department Natural Join ExhibitionAtDepartment Natural Join Exhibition
+Group By DepartmentId
+Having count(*) >= 3
