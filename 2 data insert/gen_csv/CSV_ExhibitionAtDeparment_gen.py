@@ -7,7 +7,7 @@ ExhibitionId = 0
 
 def getExhibitionAtDepartment(n: int):
     r = range(1, n + 1)
-    DepartmentId = random.sample(range(800), n)
+    DepartmentId = list(map(lambda a: random.randint(0,800), r))
     ExhibitionId = random.sample(range(800), n)
     ExhibitionAtDepartmentId = r
     coloms_name = ("DepartmentId", "ExhibitionId" , "ExhibitionAtDepartmentId")
