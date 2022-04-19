@@ -13,7 +13,16 @@ Where Price > 700 and Status LIKE '%stolen%'
 Group By ExhibitId, Name, DatePurchased
 Having count(*) > 1
 
-Select DepartmentId
+Select DepartmentId, Genre
 From Department Natural Join ExhibitionAtDepartment Natural Join Exhibition
-Group By DepartmentId
+Group By DepartmentId, Genre
 Having count(*) >= 3
+
+Select FirstName, LastName, Email, Rank + 1
+From Curator Natural Join CuratorAtExhibition
+Where Date_of_birth > to_date('1/1/1980', 'dd/mm/yyyy') and
+CuratorId in (Select CuratorId  From Curator Natural Join CuratorAtExhibition
+                Group By CuratorId
+                    Having count(*) >= 3)
+
+
