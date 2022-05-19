@@ -1,27 +1,53 @@
-create table area(areaId number(3) primary key,
-                  areaName varchar(20));
-                  
-create table city(cityName  varchar(20) primary key,
-                  areaId    number(3) references  area);
+CREATE TABLE Area
+(
+  AreaID INT NOT NULL,
+  AreaName INT NOT NULL,
+  PRIMARY KEY (AreaID)
+);
 
-create table agent(agentID    number(9) primary key,   
-                   agentName  varchar(20), 
-				   areaID     number(3) references  area, 
-				   Rating     number(2), 
-				   HireYear   number(4), 
-				   bossID     number(9), 
-				   salary     float);
+CREATE TABLE City
+(
+  CityName INT NOT NULL,
+  AreaID INT NOT NULL,
+  PRIMARY KEY (CityName),
+  FOREIGN KEY (AreaID) REFERENCES Area(AreaID)
+);
 
-create table client(clientID    number(9) primary key, 
-                    clientName  varchar(20), 
-					          agentID     number(9) references  agent, 
-					          phoneNr     varchar(10), 
-					          Address     varchar(25), 
-					          cityName    varchar(20) references city);
+CREATE TABLE Agent
+(
+  AgentID INT NOT NULL,
+  AgentName INT NOT NULL,
+  Rating INT NOT NULL,
+  HireYear INT NOT NULL,
+  BossID INT NOT NULL,
+  Salary INT NOT NULL,
+  AreaID INT NOT NULL,
+  PRIMARY KEY (AgentID),
+  FOREIGN KEY (AreaID) REFERENCES Area(AreaID)
+);
 
-create table schedule(agentId  number(9),
-                      clientId number(9),
-                      meetingTime date,
-					            primary key (agentId, clientId, meetingTime),
-					            foreign key (agentId) references  agent,
-					            foreign key (clientId) references client);
+CREATE TABLE Client
+(
+  ClientID INT NOT NULL,
+  ClientName INT NOT NULL,
+  PhoneNr INT NOT NULL,
+  Address INT NOT NULL,
+  AgentID INT NOT NULL,
+  PRIMARY KEY (ClientID),
+  FOREIGN KEY (AgentID) REFERENCES Agent(AgentID)
+);
+
+CREATE TABLE Schedule
+(
+  AgentID INT NOT NULL,
+  ClientID INT NOT NULL,
+  MeetingTime INT NOT NULL,
+  ClientID INT NOT NULL,
+  AgentID INT NOT NULL,
+  PRIMARY KEY (AgentID, ClientID, AgentID),
+  FOREIGN KEY (ClientID) REFERENCES Client(ClientID),
+  FOREIGN KEY (AgentID) REFERENCES Agent(AgentID),
+  UNIQUE (ClientID),
+  UNIQUE (MeetingTime)
+);
+
