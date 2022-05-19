@@ -1,4 +1,4 @@
-Select Sum(Price) as Loses
+Select Sum(Price) as Profit
 From Exhibit Natural Join ExhibitHistory
 Where ExhibitHistoryId in(Select ExhibitHistoryId
                             From ExhibitHistory EH
