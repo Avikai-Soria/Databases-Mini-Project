@@ -1,0 +1,15 @@
+Select *
+From Curator Natural Join Curatoratexhibition Natural Join Exhibitatexhibition Natural Join ExhibitHistory
+Where Rank < 5 And Rank > 2 and Date_Of_Birth < to_date('1/1/1990', 'dd/mm/yyyy') and Date_Of_Birth > to_date('1/1/1970', 'dd/mm/yyyy') and Salaryforcurator < 50000
+and Not Exists ((Select ExhibitId
+                   From Exhibit Natural Join ExhibitHistory Natural Join Curator Natural Join Curatoratexhibition Natural Join Exhibitatexhibition
+                   Where C.Curatorid = Curatorid)
+                   Minus
+                   (Select ExhibitId
+                   From Exhibit Natural Join ExhibitHistory Natural Join Curator Natural Join Curatoratexhibition Natural Join Exhibitatexhibition
+                   Where C.Curatorid = Curatorid and (Status Like '%for auction%' or Status Like 'displayed in exhibition' or Status Like 'in warehouse'))
+                   )
+                   
+
+
+
