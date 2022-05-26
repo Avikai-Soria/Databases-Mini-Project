@@ -71,3 +71,11 @@ CREATE TABLE CuratorAtExhibition
   FOREIGN KEY (ExhibitionId) REFERENCES Exhibition(ExhibitionId)
 );
 
+CREATE TABLE Department
+(
+  Department_Id INT NOT NULL,
+  Contributor VARCHAR(20) NOT NULL,
+  Floor INT NOT NULL,
+  
+  PRIMARY KEY (Department_Id)
+);
